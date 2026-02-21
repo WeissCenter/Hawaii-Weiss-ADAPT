@@ -22,8 +22,9 @@ export const environment = {
   },
   loginContent: 'assets/content-labels.json',
   pagesContent: 'assets/text/admin-content-text.json',
-  organizationName: 'User Organization',
-  logoPath: 'assets/shared/logos/generic',
+  organizationName: 'The State of Hawaii',
+  logoStyleClass: 'width-card',
+  logoPath: 'assets/shared/logos/states/hi',
   logoExtension: 'svg',
-  copyrightText: 'AEM Corporation.',
+  copyrightText: 'The State of Hawaii.',
 };

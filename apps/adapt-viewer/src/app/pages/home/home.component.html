@@ -54,7 +54,7 @@
         <div class="home-faqs-view-more margin-top-2">
           <a [routerLink]="['resources']" [queryParams]="{'navigation': 'frequently-asked-questions'}"
             class="usa-button usa-button--outline">
-            <i aria-hidden="true" class="fal fa-folder"></i>{{ $content().shared.frequentlyAskedQuestions.button_text
+            <i aria-hidden="true" class="fal fa-folder" role="img" alt=""></i>{{ $content().shared.frequentlyAskedQuestions.button_text
             }}
           </a>
         </div>
@@ -74,9 +74,9 @@
         <!--  *ngFor="let report of reports$ | async" -->
         <div *ngIf="reportsLoadedComplete" class="home-reports-list display-flex flex-column gap-1">
           <lib-adapt-expandable-list-item [expandable]="false" *ngFor="let report of listOfAllReports">
-            <div *ngIf="report" visible-content class="display-flex gap-105 flex-column">
+            <div *ngIf="report" visible-content class="display-flex flex-column">
               <lib-adapt-h-element [ngClass]="'usa-prose margin-0'" level="h3">
-                <a class="text-primary hover:primary-dark text-semibold text-no-underline cursor-pointer display-inline-flex width-auto"
+                <a class="text-primary hover:primary-dark text-semibold text-underline display-inline-flex width-auto"
                   [routerLink]="['reports', report.slug]">{{ report.template.title }}</a>
               </lib-adapt-h-element>
 
@@ -105,7 +105,7 @@
 
         <div class="home-reports-view-more">
           <a [routerLink]="['reports']" class="usa-button usa-button--outline">
-            <i aria-hidden="true" class="fal fa-folder"></i>{{ reportContent.button_text }}
+            <i aria-hidden="true" class="fal fa-folder" role="img" alt=""></i>{{ reportContent.button_text }}
           </a>
         </div>
       </ng-container>
