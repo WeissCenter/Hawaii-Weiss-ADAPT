@@ -4,7 +4,8 @@ export const environment = {
   contentFileName: 'viewer-content-text.json',
   appDomain: 'viewer.adapt.k12.hi.us',
   API_URL: 'https://u0oav6271b.execute-api.us-east-1.amazonaws.com/weiss-sandbox/',
-  logoPath: 'assets/shared/logos/generic',
+  logoStyleClass: 'width-card',
+  logoPath: 'assets/shared/logos/states/hi',
   logoExtension: 'svg',
-  copyrightText: 'AEM Corporation.',
+  copyrightText: 'The State of Hawaii.',
 };
