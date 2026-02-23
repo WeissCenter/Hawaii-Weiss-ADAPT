@@ -1,10 +1,11 @@
 export const environment = {
   envLabel: 'Prod',
-  contentRoot: 'assets/text/generic',
+  contentRoot: 'assets/text/hi',
   contentFileName: 'viewer-content-text.json',
   appDomain: 'viewer.adapt.k12.hi.us',
-  API_URL: 'https://u0oav6271b.execute-api.us-east-1.amazonaws.com/weiss-sandbox/',
-  logoPath: 'assets/shared/logos/generic',
+  API_URL: 'https://x2comberb9.execute-api.us-east-1.amazonaws.com/hi-prod/',
+  logoStyleClass: 'width-card',
+  logoPath: 'assets/shared/logos/states/hi',
   logoExtension: 'svg',
-  copyrightText: 'AEM Corporation.',
+  copyrightText: 'The State of Hawaii.',
 };
