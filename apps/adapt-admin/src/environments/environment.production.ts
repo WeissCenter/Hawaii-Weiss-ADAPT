@@ -3,7 +3,7 @@ import { NgxLoggerLevel } from 'ngx-logger';
 export const environment = {
   // NgxLoggerLevels: TRACE|DEBUG|INFO|LOG|WARN|ERROR|FATAL|OFF
   logLevel: NgxLoggerLevel.OFF,
-  API_URL: 'https://2goillhc50.execute-api.us-east-1.amazonaws.com/hi-prod',
+  API_URL: 'https://2goillhc50.execute-api.us-east-1.amazonaws.com/hi-prod/',
   VAPID_KEY: 'BFx0mUT16qfHb-kAcDPHLKHkQgJgXeqVmcigJzAY3ltHXLayq9InRYgvs0LlwKNsyKQyC2mtSczag95foXFNde0',
   cognitoRegion: 'us-east-1',
   cognitoDomainName: 'hi-prod-adaptadmin',
