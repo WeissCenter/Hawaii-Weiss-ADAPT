@@ -2,12 +2,12 @@
   "pages": {
     "home": {
       "brandingHeader": {
-        "heading": "Informes públicos",
-        "subHeading": "IDEA Informes públicos"
+        "heading": "Informe público de la Ley de Educación para Individuos con Discapacidades (IDEA)",
+        "subHeading": "Departamento de Educación del Estado de Hawai\u02BBi - División de Monitoreo y Cumplimiento"
       },
       "headingCard": {
         "heading": "Acerca de IDEA Reports",
-        "body": "Aquí hay una lista de acciones comunes que puede realizar, lo que facilita el acceso rápido y la administración de sus tareas rutinarias."
+        "body": "La Sección 618 de la Ley de Educación para Individuos con Discapacidades (<a href=\"https://sites.ed.gov/idea/\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"IDEA (opens in a new tab)\">IDEA</a>) exige que cada estado presente datos anuales sobre los niños con discapacidades de 3 a 21 años que reciben educación especial y servicios relacionados bajo la Parte B de la IDEA. Estos informes ayudan a garantizar la implementación eficaz de programas diseñados para mejorar los resultados de los niños y jóvenes con discapacidades. Los informes se publican después de su envío al Departamento de Educación de EE. UU. Si tiene alguna pregunta sobre los datos de la Sección 618 de la Parte B de la IDEA, comuníquese con la División de Monitoreo y Cumplimiento al (808) 307-3600."
       },
       "latestReports": {
         "title": "Últimos informes",
@@ -47,9 +47,19 @@
         "description": "Encontrar recursos valiosos y apoyo para niños con discapacidad. Estos enlaces ofrecen información, promoción y asistencia adaptadas a sus necesidades.",
         "links": [
           {
-            "name": "Marco de transformación de sistemas para preescolares equitativos (STEP Award with Data) - Tendencias infantiles",
-            "description": "El Marco de Transformación del Sistema para Preescolares Equitativos (STEP Forward with Data) está diseñado para ayudar a los líderes del sistema preescolar a utilizar los datos para promover una mayor equidad en cada paso del sistema preescolar. Al usar este Marco, los líderes comprenderán mejor las experiencias de los niños, las familias o los miembros de la fuerza laboral dentro de sus sistemas para comenzar a identificar posibles inequidades y examinar las causas profundas que podrían abordarse.",
-            "link": "https://www.childtrends.org/publications/system-transformation-equitable-preschools-step-forward-data-framework"
+            "name": "Hawai\u02BBi State Department of Education",
+            "description": "El Departamento de Educación del Estado de Hawai\u02BBi es el único distrito escolar público estatal del país, que atiende a 164,000 estudiantes, sus familias y comunidades en 296 escuelas en siete islas. Con el espíritu de unidad, unidos en un propósito, nuestras escuelas públicas se dedican a formar graduados competitivos a nivel global y comprometidos con su comunidad. Nos esforzamos por inspirar el aprendizaje, la innovación y una dedicación colectiva al futuro de Hawai\u02BBi.",
+            "link": "https://hawaiipublicschools.org/"
+          },
+          {
+            "name": "IDEA Statue and Regulations",
+            "description": "El Departamento de Educación de los EE. UU. emite estatutos y reglamentos para implementar los requisitos de la Ley de Educación para Individuos con Discapacidades (IDEA).",
+            "link": "https://sites.ed.gov/idea/statuteregulations/#statute"
+          },
+          {
+            "name": "Special Education Advisory Council (SEAC)",
+            "description": "El Consejo Asesor de Educación Especial o SEAC es el panel asesor en Hawai\u02BBi que asesora al personal de educación especial del estado con respecto a la educación de todos los niños elegibles con discapacidades.",
+            "link": "https://seac-hawaii.org/"
           },
           {
             "name": "Centro de Datos IDEA (IDC)",
