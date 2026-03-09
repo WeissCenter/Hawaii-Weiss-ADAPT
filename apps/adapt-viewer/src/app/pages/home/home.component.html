@@ -22,7 +22,7 @@
           <div class="usa-prose">
             <!-- What can you do here? -->
             <h2>{{$content().pages.home?.headingCard?.heading}}</h2>
-            <p>{{$content().pages.home?.headingCard?.body}}</p>
+            <p [innerHTML]="$content().pages.home?.headingCard?.body"></p>
           </div>
         </div>
       </div>

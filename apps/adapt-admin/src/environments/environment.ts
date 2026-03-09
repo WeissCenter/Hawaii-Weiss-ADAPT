@@ -22,9 +22,9 @@ export const environment = {
   },
   loginContent: 'assets/content-labels.json',
   pagesContent: 'assets/text/admin-content-text.json',
-  organizationName: 'The State of Hawaii',
+  organizationName: 'Hawai\u02BBi State Department of Education - Monitoring and Compliance Branch',
   logoStyleClass: 'width-card',
   logoPath: 'assets/shared/logos/states/hi',
   logoExtension: 'svg',
-  copyrightText: 'The State of Hawaii.',
+  copyrightText: 'Hawai\u02BBi State Department of Education.',
 };
