@@ -7,5 +7,5 @@ export const environment = {
   logoStyleClass: 'width-card',
   logoPath: 'assets/shared/logos/states/hi',
   logoExtension: 'svg',
-  copyrightText: 'Hawai\u02BBi State Department of Education',
+  copyrightText: 'Hawai\u02BBi State Department of Education.',
 };
