@@ -52,14 +52,19 @@
             "link": "https://hawaiipublicschools.org/"
           },
           {
+            "name": "Special Education Advisory Council (SEAC)",
+            "description": "Special Education Advisory Council or SEAC is the advisory panel in Hawaii that advises the State special education staff regarding the education of all eligible children with disabilities.",
+            "link": "https://seac-hawaii.org/"
+          },
+          {
             "name": "IDEA Statue and Regulations",
             "description": "The U.S. Department of Education issues statues and regulations to implement the requirements of the Individuals with Disabilities Education Act (IDEA).",
             "link": "https://sites.ed.gov/idea/statuteregulations/#statute"
           },
           {
-            "name": "Special Education Advisory Council (SEAC)",
-            "description": "Special Education Advisory Council or SEAC is the advisory panel in Hawaii that advises the State special education staff regarding the education of all eligible children with disabilities.",
-            "link": "https://seac-hawaii.org/"
+            "name": "Leadership in Disabilities & Achievement of Hawai\u02BBi (LDAHI)",
+            "description": "LDAHI is a nonprofit organization that supports and educates parents, families, and professionals to meet the needs of children and youth (ages birth through 26) with any disability. Additional information can be found on the LDAHI website.",
+            "link": "https://www.ldahawaii.org/"
           },
           {
             "name": "IDEA Data Center (IDC)",
