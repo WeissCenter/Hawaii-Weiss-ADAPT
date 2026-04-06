@@ -2,12 +2,12 @@
   "pages": {
     "home": {
       "brandingHeader": {
-        "heading": "Public Reporting",
-        "subHeading": "IDEA Public Reporting"
+        "heading": "Individuals with Disabilities Education Act (IDEA) Public Reporting",
+        "subHeading": "Hawai\u02BBi State Department of Education - Monitoring and Compliance Branch"
       },
       "headingCard": {
         "heading": "About IDEA Reports",
-        "body": "Here is a list of common actions you can perform, making it easy to quickly access and manage your routine tasks."
+        "body": "Section 618 of the Individuals with Disabilities Education Act (<a href=\"https://sites.ed.gov/idea/\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"IDEA (opens in a new tab)\">IDEA</a>) requires each state to submit annual data on children with disabilities ages 3 through 21 who receive special education and related services under Part B of IDEA. These reports help ensure the effective implementation of programs designed to improve outcomes for children and youth with disabilities. Reports are posted after submission to the U.S. Department of Education. If you have questions about IDEA Part B Section 618 data, please contact the Monitoring & Compliance Branch at (808) 307-3600."
       },
       "latestReports": {
         "title": "Latest Reports",
@@ -47,9 +47,24 @@
         "description": "Find valuable resources and support for children with disabilities. These links offer information, advocacy, and assistance tailored to your needs.",
         "links": [
           {
-            "name": "System Transformation for Equitable Preschools (STEP Forward with Data) Framework - Child Trends",
-            "description": "The System Transformation for Equitable Preschools (STEP Forward with Data) Framework is designed to help preschool system leaders use data to promote greater equity at every step of the preschool system. In using this Framework, leaders will better understand the experiences of children, families, or workforce members within their systems to begin identifying potential inequities and examine root causes that could be addressed.",
-            "link": "https://www.childtrends.org/publications/system-transformation-equitable-preschools-step-forward-data-framework"
+            "name": "Hawai\u02BBi State Department of Education",
+            "description": "The Hawai\u02BBi State Department of Education is the nation\u2019s only statewide public school district, serving 164,000 students, their families and communities across 296 schools on seven islands. With a spirit of ne\u02BBepapa \u2014 meaning to come together as one, united in purpose \u2014 our public schools are dedicated to fostering graduates who are both globally competitive and locally committed. We strive to inspire learning, innovation and a collective dedication to Hawai\u02BBi\u2019s future.",
+            "link": "https://hawaiipublicschools.org/"
+          },
+          {
+            "name": "Special Education Advisory Council (SEAC)",
+            "description": "Special Education Advisory Council or SEAC is the advisory panel in Hawaii that advises the State special education staff regarding the education of all eligible children with disabilities.",
+            "link": "https://seac-hawaii.org/"
+          },
+          {
+            "name": "IDEA Statue and Regulations",
+            "description": "The U.S. Department of Education issues statues and regulations to implement the requirements of the Individuals with Disabilities Education Act (IDEA).",
+            "link": "https://sites.ed.gov/idea/statuteregulations/#statute"
+          },
+          {
+            "name": "Leadership in Disabilities & Achievement of Hawai\u02BBi (LDAHI)",
+            "description": "LDAHI is a nonprofit organization that supports and educates parents, families, and professionals to meet the needs of children and youth (ages birth through 26) with any disability. Additional information can be found on the LDAHI website.",
+            "link": "https://www.ldahawaii.org/"
           },
           {
             "name": "IDEA Data Center (IDC)",

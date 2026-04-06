@@ -27,8 +27,8 @@
 
           <section role="region" class="grid-row grid-gap-sm accessibility-layout"
             [attr.aria-label]="$resourcesContent()?.usefulLinks?.listSectionLabel">
-            <div *ngFor="let link of $resourcesContent()?.usefulLinks?.links || [] | fieldLengthSort : 'description'"
-              class="useful-link-wrapper tablet:grid-col-6">
+            <div *ngFor="let link of $resourcesContent()?.usefulLinks?.links || []"
+              class="useful-link-wrapper display-flex tablet:grid-col-6">
               <div
                 class="bg-white padding-2 desktop:padding-3 margin-1 gap-1 border-2px display-flex flex-column border-base-lighter tablet:radius-lg">
                 <div class="usa-prose">
