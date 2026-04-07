@@ -47,49 +47,54 @@
         "description": "Encontrar recursos valiosos y apoyo para niños con discapacidad. Estos enlaces ofrecen información, promoción y asistencia adaptadas a sus necesidades.",
         "links": [
           {
-            "name": "Hawai\u02BBi State Department of Education",
-            "description": "El Departamento de Educación del Estado de Hawai\u02BBi es el único distrito escolar público estatal del país, que atiende a 164,000 estudiantes, sus familias y comunidades en 296 escuelas en siete islas. Con el espíritu de unidad, unidos en un propósito, nuestras escuelas públicas se dedican a formar graduados competitivos a nivel global y comprometidos con su comunidad. Nos esforzamos por inspirar el aprendizaje, la innovación y una dedicación colectiva al futuro de Hawai\u02BBi.",
+            "name": "Hawai\u02BBi Departamento de Educación del Estado",
+            "description": "El Departamento de Educación del Estado de Hawai\u02BBi es el único distrito escolar público estatal de la nación, que atiende a 164,000 estudiantes, sus familias y comunidades en 298 escuelas en siete islas. Con un espíritu de ne\u02BbePapa \u2014 que significa unirnos como uno, unidos en propósito \u2014 nuestras escuelas públicas se dedican a fomentar graduados que sean competitivos a nivel mundial y localmente comprometidos. Nos esforzamos por inspirar el aprendizaje, la innovación y una dedicación colectiva al futuro de Hawai\u02BBi\u2019. ",
             "link": "https://hawaiipublicschools.org/"
           },
           {
-            "name": "Special Education Advisory Council (SEAC)",
-            "description": "El Consejo Asesor de Educación Especial o SEAC es el panel asesor en Hawai\u02BBi que asesora al personal de educación especial del estado con respecto a la educación de todos los niños elegibles con discapacidades.",
-            "link": "https://seac-hawaii.org/"
-          },
-          {
-            "name": "IDEA Statue and Regulations",
-            "description": "El Departamento de Educación de los EE. UU. emite estatutos y reglamentos para implementar los requisitos de la Ley de Educación para Individuos con Discapacidades (IDEA).",
-            "link": "https://sites.ed.gov/idea/statuteregulations/#statute"
-          },
-          {
-            "name": "Leadership in Disabilities & Achievement of Hawai\u02BBi (LDAHI)",
-            "description": "LDAHI es una organización sin fines de lucro que apoya y educa a padres, familias y profesionales para satisfacer las necesidades de niños y jóvenes (de nacimiento hasta los 26 años) con cualquier discapacidad. Se puede encontrar información adicional en el sitio web de LDAHI.",
+            "name": "Liderazgo en Discapacidades y Logro de Hawai\u02BBi (LDAH)",
+            "description": "Liderazgo en Discapacidades y Logro de Hawai\u02BBi (LDAH) es el Centro de Capacitación e Información para Padres (PTI) para Hawai\u02BBi. Como PTI, LDAH apoya y educa a padres, familias y profesionales para satisfacer las necesidades de niños y jóvenes (desde el nacimiento hasta los 26 años) con cualquier discapacidad. ",
             "link": "https://www.ldahawaii.org/"
           },
           {
+            "name": "Consejo Asesor de Educación Especial (SEAC)",
+            "description": "El Consejo Asesor de Educación Especial (SEAC) es el panel asesor en Hawai\u02BBi que asesora al personal de educación especial del Estado con respecto a la educación de todos los niños elegibles con discapacidad. ",
+            "link": "https://seac-hawaii.org/"
+          },
+          {
+            "name": "Centro de Mediación del Pacífico (MCP)",
+            "description": "La Ley de Educación de Individuos con Discapacidades (IDEA) alienta a padres y escuelas a colaborar y trabajar juntos como un apoyo unido para cada estudiante. Cuando surgen diferencias, la mediación brinda a padres y escuelas la oportunidad de elaborar soluciones para satisfacer las necesidades individuales del estudiante, con la asistencia de un mediador imparcial. La mediación puede ser solicitada por la escuela o los padres a través del Centro de Mediación del Pacífico (MCP) . ",
+            "link": "https://mediatehawaii.org/special-education/"
+          },
+          {
+            "name": "Estatuto y Reglamento de IDEA",
+            "description": "El Departamento de Educación de Estados Unidos emite estatutos y reglamentos para implementar los requisitos del IDEA. ",
+            "link": "https://sites.ed.gov/idea/statuteregulations/#statute"
+          },
+          {
             "name": "Centro de Datos IDEA (IDC)",
-            "description": "El Centro de Datos IDEA (IDC) apoya a los estados mientras trabajan para mejorar la recopilación y el reporting de sus datos IDEA y a medida que analizan y utilizan estos datos para realizar mejoras programáticas.",
+            "description": "El Centro de Datos IDEA (IDC) apoya a los estados mientras trabajan para mejorar la recopilación y el reporting de sus datos IDEA y a medida que analizan y utilizan estos datos para realizar mejoras programáticas. ",
             "link": "https://ideadata.org/"
           },
           {
-            "name": "Centro para la Integración de Datos IDEA (CIID)",
-            "description": "El Centro para la Integración de Datos IDEA (CIID) brinda asistencia técnica a las agencias educativas estatales para aumentar la capacidad de reportar datos de alta calidad requeridos bajo la Ley de Educación de Individuos con Discapacidades (IDEA) Parte B Secciones 616 y 618.",
+            "name": "Protección de la privacidad de los estudiantes - Centro de Asistencia Técnica de Privacidad (PTAC)",
+            "description": "El Centro de Asistencia Técnica de Privacidad (PTAC) es un recurso integral para que las partes interesadas de la educación aprendan sobre privacidad, confidencialidad y prácticas de seguridad relacionadas con los sistemas de datos a nivel de los estudiantes y otros usos de los datos de los estudiantes. ",
+            "link": "https://studentprivacy.ed.gov/"
+          },
+          {
+            "name": "Centro de Integración de Datos IDEA (CIID)",
+            "description": "El Centro para la Integración de Datos IDEA (CIID) brinda asistencia técnica a las agencias educativas estatales para incrementar la capacidad de reportar datos de alta calidad requeridos en virtud del IDEA Parte B Secciones 616 y 618. ",
             "link": "https://ciidta.communities.ed.gov/#program"
           },
           {
-            "name": "El Centro de Sistemas de Datos de la Primera Infancia (DaSy) IDEA",
-            "description": "El Centro DaSy es un centro nacional de asistencia técnica que trabaja con los estados para apoyar los programas estatales de intervención temprana y educación especial en la primera infancia de IDEA en la construcción de sistemas de datos de alta calidad y el uso de datos para mejorar los resultados para los niños pequeños con discapacidades y sus familias.",
+            "name": "El Centro de Sistemas de Datos de la Primera Infancia IDEA (DaSy)",
+            "description": "El Centro DaSy es un centro nacional de asistencia técnica que trabaja con los estados para apoyar los programas estatales de intervención temprana y educación especial en la primera infancia de IDEA en la construcción de sistemas de datos de alta calidad y el uso de datos para mejorar los resultados para niños pequeños con discapacidad y sus familias. ",
             "link": "https://dasycenter.org/"
           },
           {
             "name": "Centro de Asistencia Técnica para la Primera Infancia (ECTA)",
-            "description": "El Centro ECTA apoya los programas estatales IDEA Parte C y Parte B, Sección 619 en el desarrollo de sistemas estatales y locales de alta calidad, efectivos y sostenibles, para implementar acceso equitativo, servicios y apoyos para los niños con discapacidades y sus familias que den como resultado resultados positivos no relacionados con la raza, el idioma, los ingresos u otros datos demográficos.",
+            "description": "El Centro ECTA apoya los programas estatales IDEA Parte C y Parte B, Sección 619 en el desarrollo de sistemas estatales y locales de alta calidad, efectivos y sustentables, para implementar acceso equitativo, servicios y apoyos para niños con discapacidades y sus familias que den como resultado resultados positivos no relacionados con la raza, el idioma, los ingresos u otra demografía. ",
             "link": "https://ectacenter.org/"
-          },
-          {
-            "name": "Protección de la privacidad de los estudiantes - Centro de Asistencia Técnica de Privacidad (PTAC)",
-            "description": "El Centro de Asistencia Técnica de Privacidad (PTAC) es un recurso único para que las partes interesadas de la educación aprendan sobre privacidad, confidencialidad y prácticas de seguridad relacionadas con los sistemas de datos a nivel de los estudiantes y otros usos de los datos de los estudiantes.",
-            "link": "https://studentprivacy.ed.gov/"
           }
         ]
       },
