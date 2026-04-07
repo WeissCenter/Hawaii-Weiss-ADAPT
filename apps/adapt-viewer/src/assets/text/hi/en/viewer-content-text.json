@@ -48,23 +48,28 @@
         "links": [
           {
             "name": "Hawai\u02BBi State Department of Education",
-            "description": "The Hawai\u02BBi State Department of Education is the nation\u2019s only statewide public school district, serving 164,000 students, their families and communities across 296 schools on seven islands. With a spirit of ne\u02BBepapa \u2014 meaning to come together as one, united in purpose \u2014 our public schools are dedicated to fostering graduates who are both globally competitive and locally committed. We strive to inspire learning, innovation and a collective dedication to Hawai\u02BBi\u2019s future.",
+            "description": "The Hawai\u02BBi State Department of Education is the nation\u2019s only statewide public school district, serving 164,000 students, their families, and communities across 298 schools on seven islands. With a spirit of ne\u02BBepapa \u2014 meaning to come together as one, united in purpose \u2014 our public schools are dedicated to fostering graduates who are both globally competitive and locally committed. We strive to inspire learning, innovation and a collective dedication to Hawai\u02BBi\u2019s future.",
             "link": "https://hawaiipublicschools.org/"
           },
           {
+            "name": "Leadership in Disabilities & Achievement of   Hawai\u02BBi (LDAH)",
+            "description": "Leadership in Disabilities & Achievement of Hawai\u02BBi (LDAH) is the Parent Training and Information Center (PTI) for Hawai\u02BBi. As the PTI, LDAH supports and educates parents, families, and professionals to meet the needs of children and youth (ages birth through 26) with any disability.",
+            "link": "https://www.ldahawaii.org/"
+          },
+          {
             "name": "Special Education Advisory Council (SEAC)",
-            "description": "Special Education Advisory Council or SEAC is the advisory panel in Hawaii that advises the State special education staff regarding the education of all eligible children with disabilities.",
+            "description": "The Special Education Advisory Council (SEAC) is the advisory panel in Hawai\u02BBi that advises the State special education staff regarding the education of all eligible children with disabilities.",
             "link": "https://seac-hawaii.org/"
           },
           {
-            "name": "IDEA Statue and Regulations",
-            "description": "The U.S. Department of Education issues statues and regulations to implement the requirements of the Individuals with Disabilities Education Act (IDEA).",
-            "link": "https://sites.ed.gov/idea/statuteregulations/#statute"
+            "name": "Mediation Center of the Pacific (MCP)",
+            "description": "The Individuals with Disabilities Education Act (IDEA) encourages parents and schools to collaborate and work together as a united support for each student. When differences arise, mediation provides parents and schools with the opportunity to work out solutions to meet the individual needs of the student, with the assistance of an impartial mediator. Mediation may be requested by either the school or parent through The Mediation Center of the Pacific (MCP).",
+            "link": "https://mediatehawaii.org/special-education/"
           },
           {
-            "name": "Leadership in Disabilities & Achievement of Hawai\u02BBi (LDAHI)",
-            "description": "LDAHI is a nonprofit organization that supports and educates parents, families, and professionals to meet the needs of children and youth (ages birth through 26) with any disability. Additional information can be found on the LDAHI website.",
-            "link": "https://www.ldahawaii.org/"
+            "name": "IDEA Statute and Regulations",
+            "description": "The U.S. Department of Education issues statutes and regulations to implement the requirements of the IDEA.",
+            "link": "https://sites.ed.gov/idea/statuteregulations/#statute"
           },
           {
             "name": "IDEA Data Center (IDC)",
@@ -72,8 +77,13 @@
             "link": "https://ideadata.org/"
           },
           {
+            "name": "Protecting Student Privacy - Privacy Technical Assistance Center (PTAC)",
+            "description": "The Privacy Technical Assistance Center (PTAC) is a one-stop resource for education stakeholders to learn about privacy, confidentiality, and security practices related to student-level data systems and other uses of student data.",
+            "link": "https://studentprivacy.ed.gov/"
+          },
+          {
             "name": "Center for Integration of IDEA Data (CIID)",
-            "description": "The Center for the Integration of IDEA Data (CIID) provides technical assistance to state education agencies to increase the capacity to report high quality data required under the Individuals with Disabilities Education Act (IDEA) Part B Sections 616 and 618.",
+            "description": "The Center for the Integration of IDEA Data (CIID) provides technical assistance to state education agencies to increase the capacity to report high-quality data required under the IDEA Part B Sections 616 and 618.",
             "link": "https://ciidta.communities.ed.gov/#program"
           },
           {
@@ -85,11 +95,6 @@
             "name": "Early Childhood Technical Assistance Center (ECTA)",
             "description": "The ECTA Center supports state IDEA Part C and Part B, Section 619 programs in developing high-quality, effective, and sustainable state and local systems, to implement equitable access, services, and supports for children with disabilities and their families that result in positive outcomes not related to race, language, income, or other demographics.",
             "link": "https://ectacenter.org/"
-          },
-          {
-            "name": "Protecting Student Privacy - Privacy Technical Assistance Center (PTAC)",
-            "description": "The Privacy Technical Assistance Center (PTAC) is a one-stop resource for education stakeholders to learn about privacy, confidentiality, and security practices related to student-level data systems and other uses of student data.",
-            "link": "https://studentprivacy.ed.gov/"
           }
         ]
       },
